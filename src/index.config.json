@@ -1,0 +1,239 @@
+[
+    {
+        "cwd": "F:\\xams\\code-scanner",
+        "extensions": [
+            "js",
+            "json"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\docker-apps",
+        "extensions": [
+            "yml"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\dusk",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\dusk-example-admin",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\dusk-example-okr",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\dusk-examples",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\dusk-next",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\navicat-resetter",
+        "extensions": [
+            "java",
+            "groovy"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-cli-nodejs",
+        "extensions": [
+            "js",
+            "json"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-crx",
+        "extensions": [
+            "js",
+            "ts",
+            "json",
+            "html"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-dojo1",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "stylus"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-dusk-react-app",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-electron",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-frontend-monorepo",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html",
+            "less",
+            "sass",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-intellij-plugin-groovy",
+        "extensions": [
+            "json",
+            "groovy",
+            "java"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-java",
+        "extensions": [
+            "json",
+            "groovy",
+            "java"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\skeleton-koa",
+        "extensions": [
+            "js",
+            "ts",
+            "json"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\xams2.5",
+        "extensions": [
+            "json",
+            "groovy",
+            "java"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\xams-cli",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json",
+            "html"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\xams-easy-selenium",
+        "extensions": [
+            "js",
+            "json"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\xams-ezoa",
+        "extensions": [
+            "js",
+            "ts",
+            "json"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\xams-framework-backend",
+        "extensions": [
+            "java",
+            "groovy",
+            "json",
+            "html"
+        ]
+    },
+    {
+        "cwd": "F:\\xams\\xams-framework-cli",
+        "extensions": [
+            "js",
+            "jsx",
+            "ts",
+            "tsx",
+            "json"
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "name": "code-scanner",
+    "version": "0.0.1",
+    "description": "",
+    "type": "module",
+    "main": "./src/index.js",
+    "dependencies": {
+        "globby": "^13.1.2",
+        "fs-extra": "^10.1.0"
+    },
+    "devDependencies": {
+        "prettier": "latest"
+    },
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "keywords": [
+    ],
+    "author": "",
+    "license": "ISC"
+}
