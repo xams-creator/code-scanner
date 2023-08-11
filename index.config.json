@@ -1,0 +1,24 @@
+[
+    {
+        "cwd": "D:\\工作\\bi-backend",
+        "extensions": [
+            "java"
+        ]
+    },
+    {
+        "cwd": "D:\\工作\\bi-frontend",
+        "extensions": [
+            "ts",
+            "tsx",
+            "scss"
+        ]
+    },
+    {
+        "cwd": "D:\\我的\\datart\\frontend\\src",
+        "extensions": [
+            "ts",
+            "tsx"
+        ],
+        "ignored": true
+    }
+]

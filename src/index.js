@@ -4,6 +4,8 @@ import { globbySync } from 'globby';
 
 const rc = fs.readJsonSync(path.resolve('./index.config.json'));
 
+// const rc = fs.readJsonSync('./index.config.json');
+
 class Scanner {
 
     constructor(options) {
@@ -52,7 +54,9 @@ class Scanner {
 
     analyzeAll() {
         this.options.forEach((option) => {
-            this.analyze(option);
+            if (!option.ignored) {
+                this.analyze(option);
+            }
         });
     }
 
